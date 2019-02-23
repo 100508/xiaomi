@@ -114,11 +114,11 @@
 }
 .search .sou {
     float: left;
-    width: 47px;
-    height: 47px;
+    width: 48px;
+    height: 50px;
     border: 1px #aaaaaa solid;
     border-left: none;
-    margin-top: 27px;
+    margin-top: 26px;
 }
 .sou i{
     display: block;
