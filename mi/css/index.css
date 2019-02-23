@@ -114,8 +114,8 @@
 }
 .search .sou {
     float: left;
-    width: 48px;
-    height: 48px;
+    width: 47px;
+    height: 47px;
     border: 1px #aaaaaa solid;
     border-left: none;
     margin-top: 27px;
@@ -665,10 +665,9 @@ ul.aslide{
     height: 59px;
     background-color: #ff6700;
     position: absolute;
-    bottom: -72px;
+    bottom: -75px;
     z-index: 1;
     padding: 8px 30px;
-    opacity: 0;
 }
 .furu .zi{
     font-size: 12px;
@@ -687,7 +686,6 @@ ul.aslide{
     white-space: nowrap;
     overflow: hidden;
     line-height: 2.5;
-    transition: all 5s linear;
     font-size: 12px;
 }
 @keyframes furu {
